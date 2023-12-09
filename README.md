@@ -1,5 +1,6 @@
 # COMP-S350F-Project-Submission
 the source code is in the file "S350F_Project.py"
+
 information for login:
 
 example admin:
